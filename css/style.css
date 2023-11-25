@@ -4,7 +4,7 @@
     margin: 0%;
 }
 .banner {
-background-image: url(/assets/images/banner.png) , linear-gradient(rgba(0, 0, 0, 0.966), rgba(0, 0, 0, 0.9), rgba(2, 1, 1,1 ));
+background-image: url(./assets/images/banner.png) , linear-gradient(rgba(0, 0, 0, 0.966), rgba(0, 0, 0, 0.9), rgba(2, 1, 1,1 ));
 background-size: cover;
 padding-top: 60px;
 border-bottom: 2px solid #33A8DB80;
