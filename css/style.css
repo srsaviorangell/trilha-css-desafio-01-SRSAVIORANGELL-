@@ -4,12 +4,12 @@
     margin: 0%;
 }
 .banner {
-    background-image: url(../assets/images/banner.png) , linear-gradient(rgba(0, 0, 0, 0.966), rgba(0, 0, 0, 0.9), rgba(2, 1, 1,1 ));
-    background-size: cover;
-    padding-top: 60px;
-    border-bottom: 2px solid #33A8DB80;
-    height: 600px;
-    background-repeat: no-repeat;
+background-image: url(/assets/images/banner.png) , linear-gradient(rgba(0, 0, 0, 0.966), rgba(0, 0, 0, 0.9), rgba(2, 1, 1,1 ));
+background-size: cover;
+padding-top: 60px;
+border-bottom: 2px solid #33A8DB80;
+height: 600px;
+background-repeat: no-repeat;
 }
 .logoimg{
     padding: 0%;
@@ -161,64 +161,6 @@ span {
 }
 .ultima{
     margin: 32px 0 ;
-    margin-top: 50px;
-}
-.h2final{
-    display: block;
-    text-transform: uppercase;
-    background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-family: 'Raleway',sans-serif;
-    font-weight: 700;
-    font-size: 32px ;
-    padding-top: 100px ;
-    padding-bottom: auto;
-    width: 800px 0 ;
-    letter-spacing: 4px;
-    text-align: center;
-    right: 200px;
-}
-.pfinal{
-    position: absolute;
-    right: 300px;
-    color: #fff;
-    margin-bottom: 30px;
-    padding: 10px ;
-    width: 800px;
-    height: 100px;
-    text-align: center;
-    font-family: 'releaway',sans-serif;
-    font-weight: 400;
-    word-wrap: break-word;
-    font-size: 16px;
-}
-.dio-log{
-    background: black ;
-    width: 1349px;
-    height: 187px;
-    background-image: linear-gradient(rgba(50, 168, 219, .0), rgba(50, 168, 219, .2));
-}
-.dio-logo{
-    width: 300px;
-    overflow-clip-margin: content-box;
-    overflow: clip;
-    position: absolute;
-    right: 515px;
-    margin-top: 60px;
-}
-.rodape{
-    color: #fff;
-    position: absolute;
-    right: 435px;
-    margin: 105px;
-    font-family: 'Raleway', sans-serif;
-    font-size: 16px;
-    font-weight: 400;
-}
-a{
-    color: #33A8DB;
-    font-weight: bold;
-    text-decoration: none;
+    margin-top: 180px;
+    
 }

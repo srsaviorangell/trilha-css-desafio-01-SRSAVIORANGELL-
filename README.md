@@ -19,4 +19,4 @@ que você possa se basear.
 é necessário utilizar a propriedade -webkit-background-clip: text;*
 
 Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+utilizando o comando `git checkout final` no seu terminal.fffff
